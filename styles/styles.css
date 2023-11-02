@@ -1,0 +1,214 @@
+    body {
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .main {
+        display: flex;
+        flex-direction: row-reverse;
+        background: #ffffff;
+        width: 1200px;
+        height: 1319px;
+        margin: 0 auto;
+    }
+
+    .main-content {
+        background-color: #B6E2B5;
+        padding-top: 102px;
+        padding-left: 30px;
+        padding-bottom: 107px;
+        width: 930px;
+    }
+
+    .sidebar {
+        background: #1E59AD;
+        padding-top: 40px;
+        padding-bottom: 366px;
+        width: 370px;
+    }
+
+    .B {
+        padding-left: 40px;
+        padding-top: 51px;
+    }
+
+    .C {
+        padding-left: 40px;
+        padding-top: 47px;
+    }
+
+    .D {
+        padding-left: 40px;
+        padding-top: 44px;
+    }
+
+    .A {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 27px;
+        color: #FFFFFF;
+        margin-bottom: 10px;
+    }
+
+    .contact {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin-right: 5px;
+    }
+
+    .contactl {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        color: #FFFFFF;
+        opacity: 0.5;
+    }
+
+    .skills {
+        /* margin-left : -21px; */
+        color: #FB6D3A;
+        margin-left: -25px;
+    }
+
+    .skills2 {
+        color: #FB6D3A;
+        margin-left: -25px;
+    }
+
+    .photo {
+        width: 370px;
+    }
+
+    .skills3 {
+        color: #FFFFFF;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .a {
+        margin-left: -18px;
+    }
+
+    .aa {
+        margin-left: -18px;
+    }
+
+    .aaa {
+        margin-left: -18px;
+
+
+    }
+
+    .text {
+        width: 555px;
+
+    }
+
+    .devel {
+        color: #000;
+
+        font-family: Montserrat;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .project,
+    .work,
+    .education {
+
+        color: #000;
+
+        font-family: Montserrat;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        padding-left: 220px;
+    }
+
+    .name {
+        color: #000;
+        font-size: 45px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .text {
+        color: #595959;
+
+        font-family: Montserrat;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+    }
+
+    .orange {
+        color: #FB6D3A;
+
+        font-family: Montserrat;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .date {
+        color: #A8A8A8;
+
+        font-family: Montserrat;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+
+    .http {
+        color: #595959;
+
+        font-family: Montserrat;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+    
+    }
+
+    .brackets::before {
+        content: "[";
+    }
+
+    .brackets::after {
+        content: "]";
+    }
+
+    .brackets::before,
+    .brackets::after {
+        color: #000
+    }
+
+    .tnre {
+        padding-right: 150px;
+    }
+
+    .separator {
+        border: none;
+        border-top: 1px solid #000;
+        /* Встановіть колір та стиль підкреслення тут */
+        margin: 10px 0;
+        /* Додайте відступи, які потрібні */
+    }
+
+    .I {
+        color: #000;
+    }
